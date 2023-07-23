@@ -6,7 +6,7 @@
   "author": "Sivaroot Chuncharoen <45628232+sivaroot@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2"

@@ -1,0 +1,14 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sivaroot/sample-app.git",
+  "author": "Sivaroot Chuncharoen <45628232+sivaroot@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
